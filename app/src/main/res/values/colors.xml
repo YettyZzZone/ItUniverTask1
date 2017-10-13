@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#59bdec</color>
+    <color name="colorPrimaryDark">#038db9</color>
+    <color name="colorAccent">#59bdec</color>
+    android:centerColor=""
+    android:endColor=""
+    android:startColor=""
+</resources>

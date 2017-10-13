@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ItUniverTask1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_header_main_task1">Task1</string>
+
+    <string name="activity_main_drawer_explicit_intent">Explicit Intent</string>
+    <string name="activity_main_drawer_implicit_intent">Implicit Intent</string>
+    <string name="activity_main_drawer_implicit_intent_filter">Implicit intent and Intent Filter</string>
+    <string name="activity_main_drawer_fragment">Fragment with RecycleView</string>
+</resources>
