@@ -9,9 +9,6 @@
             android:id="@+id/nav_implicit_intent"
             android:title="@string/activity_main_drawer_implicit_intent"/>
         <item
-            android:id="@+id/nav_implicit_intent_intent_filter"
-            android:title="@string/activity_main_drawer_implicit_intent_filter" />
-        <item
             android:id="@+id/nav_fragment"
             android:title="@string/activity_main_drawer_fragment" />
     </group>
